@@ -1,0 +1,6 @@
+[Yesterday 3:51 PM] Amit Morajkar [External], Technology
+Import the above DB setting file
+[Yesterday 3:51 PM] Amit Morajkar [External], Technology
+In Table T_Case - filter the RIM and delete the row
+[Yesterday 3:52 PM] Amit Morajkar [External], Technology
+Also from T_Case, take the Case_Id and put in filter for table T_KYCData and delet the row
