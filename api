@@ -1,0 +1,5 @@
+https://cbd-hq-icsdv01.cbd.dev:443/reporting/transactions/LoadTerminalWiseTransactionsSummary
+https://cbd-hq-icsdv01.cbd.dev:443/reporting/transactions/LoadTransactionsSummary?typeId=0	
+https://cbd-hq-icsdv01.cbd.dev:443/reporting/AppLog/LoadAuditLog
+https://cbd-hq-icsdv01.cbd.dev:443/reporting/transactions/LoadUserAuditData
+https://cbd-hq-icsdv01.cbd.dev:443/reporting/transactions/LoadErrorLogData
